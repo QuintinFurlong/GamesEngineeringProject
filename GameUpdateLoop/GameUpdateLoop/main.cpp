@@ -2,7 +2,6 @@
 #include <Windows.h>
 #include "GameTime.h"
 #include <mutex>
-
 using namespace std;
 
 const float TRIGGER = 0.2f;
